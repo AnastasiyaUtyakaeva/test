@@ -154,6 +154,9 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
+
+
+###[Редактор для MarkDown](https://dillinger.io) 
 Таблица 1 Достоинства и недостатки систем
 
 +-----------------------+-----------------------+-----------------------+
