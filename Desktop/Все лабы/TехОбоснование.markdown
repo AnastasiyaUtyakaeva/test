@@ -156,7 +156,9 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 
 
-###[Редактор для MarkDown](https://dillinger.io) 
+### [Редактор для MarkDown](https://dillinger.io)
+
+### [Статья про MarkDown] 
 Таблица 1 Достоинства и недостатки систем
 
 +-----------------------+-----------------------+-----------------------+
